@@ -1,0 +1,78 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Исходные файлы">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Файлы заголовков">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Файлы ресурсов">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Elements">
+      <UniqueIdentifier>{c3cb4e99-900d-4479-b1a8-ffd35d4c58ef}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Settings">
+      <UniqueIdentifier>{3e7c535e-4111-41d4-84f3-d7131e95b557}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Logic">
+      <UniqueIdentifier>{164e929f-8a8d-454f-ae36-40e016e9e9a5}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Source.cpp">
+      <Filter>Исходные файлы</Filter>
+    </ClCompile>
+    <ClCompile Include="Textbox.cpp">
+      <Filter>Elements</Filter>
+    </ClCompile>
+    <ClCompile Include="INIReader.cpp">
+      <Filter>Settings</Filter>
+    </ClCompile>
+    <ClCompile Include="ini.c">
+      <Filter>Settings</Filter>
+    </ClCompile>
+    <ClCompile Include="Animation.hpp">
+      <Filter>Logic</Filter>
+    </ClCompile>
+    <ClCompile Include="Field.hpp">
+      <Filter>Logic</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Button.hpp">
+      <Filter>Elements</Filter>
+    </ClInclude>
+    <ClInclude Include="Textbox.hpp">
+      <Filter>Elements</Filter>
+    </ClInclude>
+    <ClInclude Include="Graphic_settings.hpp">
+      <Filter>Settings</Filter>
+    </ClInclude>
+    <ClInclude Include="INIReader.h">
+      <Filter>Settings</Filter>
+    </ClInclude>
+    <ClInclude Include="ini.h">
+      <Filter>Settings</Filter>
+    </ClInclude>
+    <ClInclude Include="GraphicSettings.hpp">
+      <Filter>Elements</Filter>
+    </ClInclude>
+    <ClInclude Include="Top_score_settings.hpp">
+      <Filter>Settings</Filter>
+    </ClInclude>
+    <ClInclude Include="Game_settings.hpp">
+      <Filter>Settings</Filter>
+    </ClInclude>
+    <ClInclude Include="TopScores.hpp">
+      <Filter>Elements</Filter>
+    </ClInclude>
+    <ClInclude Include="GameSettings.hpp">
+      <Filter>Elements</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
