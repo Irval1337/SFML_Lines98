@@ -10,5 +10,5 @@
 
 ![Main](https://github.com/Irval1337/SFML_Lines98/blob/main/main.png)
 ![Game_mode_setting](https://github.com/Irval1337/SFML_Lines98/blob/main/game_mode_settings.png)
-![Graphic_settings](https://github.com/Irval1337/SFML_Lines98/blob/main/game_mode_settings.png)
+![Graphic_settings](https://github.com/Irval1337/SFML_Lines98/blob/main/graphic_settings.png)
 ![Top_score](https://github.com/Irval1337/SFML_Lines98/blob/main/top_scores.png)
